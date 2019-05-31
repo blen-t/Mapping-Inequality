@@ -1,2 +1,4 @@
-# 126-Project
-With my group, we have analyzed the Mapping Inequalty csv file to make it consistant and a cleaner file.
+# Mapping Inequality Data Cleaning
+Team: Blen, Lina, Dua, Sanjeev
+
+Project Description: Mapping_Inequality.csv is a large dataset that our team detected and corrected corrupt/inaccurate records as well as replacing, modifying, and deleting the dirty/coarse data to be able to easily view and understand the data.
